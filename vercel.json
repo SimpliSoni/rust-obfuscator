@@ -1,4 +1,3 @@
 {
-  "buildCommand": "pnpm build",
-  "outputDirectory": ".next"
+  "buildCommand": "pnpm build"
 }
